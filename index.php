@@ -14,8 +14,5 @@
         <div id="corpo">
             teste para o GitHub
         </div>
-        <div id="rodape">
-        <H6>aprendendo mais sobre projetos no Git Hub</H6>
-        <h6> Criado por Cristiano Borges</h6>
     </body>
 </html>

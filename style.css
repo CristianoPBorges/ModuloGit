@@ -27,11 +27,3 @@ body{
   height: 300px;
   margin: auto;
 }
-#rodape{
-  width: auto;
-  height: 50px;
-  background-color: #000;
-  color: yellow;
-margin-top: -25px;
-  text-align: center;
-}

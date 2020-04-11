@@ -12,6 +12,3 @@ Gitignore --> Este arquivo serve para ignorar arquivos especificos
 ou de extensoes especificas de ir para o repositorio remoto (GITHUB).
 todos os arquivos inseridos nesse GITIGNORE, serao "ignorados" de ir para
 o GitHub.
-
-Git Revert --> Serve para voce voltar uma sequencia de codigos, sem perder
-as alteracoes ja criadas para uma possivel correcao.
