@@ -8,3 +8,7 @@ para seu repositorio em nuvem.
 Git Status -Serve para verificar se houve alteracoes e se houve algum
 tipo de insercao de novos arquivo. Casa exista alteracoes, utilize
 os GIT ADD acima para inserir esses aqruivos em um novo commit.
+Gitignore --> Este arquivo serve para ignorar arquivos especificos
+ou de extensoes especificas de ir para o repositorio remoto (GITHUB).
+todos os arquivos inseridos nesse GITIGNORE, serao "ignorados" de ir para
+o GitHub.
