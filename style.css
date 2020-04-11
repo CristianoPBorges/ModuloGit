@@ -20,9 +20,10 @@ body{
 }
 #corpo{
   background-color: chocolate;
+  text-align: center;
   color: aliceblue;
   font-size: 36pt;
   width: auto;
-  height: 400px;
+  height: 300px;
   margin: auto;
 }

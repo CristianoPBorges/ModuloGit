@@ -11,7 +11,6 @@
             <h1>Alcateia Moto Clube </h1>
             <h3> Conduta & Atitude </h3>
         </div>
-        // criando um pequeno comentario
         <div id="corpo">
             teste para o GitHub
         </div>
