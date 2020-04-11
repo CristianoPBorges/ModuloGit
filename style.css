@@ -27,3 +27,13 @@ body{
   height: 300px;
   margin: auto;
 }
+#rodape{
+  color: #ffffff;
+  font-size: 09pt;
+  text-align: center;
+  margin:auto;
+  padding: 3px;
+  background-color: black;
+  font-style: italic;
+  height: 30px;
+}

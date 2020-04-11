@@ -14,5 +14,8 @@
         <div id="corpo">
             teste para o GitHub
         </div>
+        <div id="rodape">
+            Criado por Cristiano P. Borges - 2020
+        </div>
     </body>
 </html>
